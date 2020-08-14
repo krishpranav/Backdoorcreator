@@ -8,7 +8,8 @@ import re
 
 def banner():
     print("BackDoor Creator")
-    print("Use This For Illegal Purpose")
+    print("Use This For Legal Purpose")
+    
 def choice():
     print("""
 
