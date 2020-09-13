@@ -24,3 +24,8 @@ This tool will create backdoor and listen for incoming connections
 - apt install python3
 - python3 -m pip install -r requirements.txt
 - python3 server.py
+- python3 backdoorcreate.py
+
+# Use This Tool For Legal Purpose
+
+- TOOL IS CREATED BY KRISNA PRANAV
