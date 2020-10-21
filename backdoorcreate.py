@@ -5,11 +5,7 @@ import sys
 import http.server
 import socket
 import re
-import lolcat
 
-def banner():
-    subprocess.call("clear")
-    subprocess.call("figlet BACKDOORCREATE | lolcat")
     
 def choice():
     print("""
@@ -149,5 +145,4 @@ def windows_reverse(host, port):
 
 
 if __name__ == '__main__':
-    banner()
     choice()
