@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+# Backdoorcreator
+This tool will create backdoor and listen for incoming connections
 
-You can use the [editor on GitHub](https://github.com/krishpranav/Backdoorcreator/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Steps To Run This Tool On Linux:
+- git clone https://github.com/krishpranav/Backdoorcreator
+- cd Backdoorcreator
+- sudo chmod +x *
+- python3 -m pip install -r requirements.txt
+- python3 server.py
+- python3 backdoorcreate.py
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Steps To Run This Tool On Mac:
+- git clone https://github.com/krishpranav/Backdoorcreator
+- cd Backdoorcreator
+- sudo chmod +x *
+- python3 -m pip install -r requirements.txt
+- python3 server.py
+- python3 backdoorcreate.py
 
-### Markdown
+# Steps To Run This Tool On Android(Termux):
+- git clone https://github.com/krishpranav/Backdoorcreator
+- cd Backdoorcreator
+- chmod +x *
+- apt install python3
+- python3 -m pip install -r requirements.txt
+- python3 server.py
+- python3 backdoorcreate.py
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Reference
+<img src="https://github.com/krishpranav/Backdoorcreator/blob/master/screenshot.png">
 
-```markdown
-Syntax highlighted code block
+# Use This Tool Is For Legal Purpose Only
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/krishpranav/Backdoorcreator/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- TOOL IS CREATED BY KRISNA PRANAV
