@@ -68,7 +68,7 @@ def choice():
     if (options == '3'):
         port = input("\n\033[1;36mPORT: \033[1;39m")
         print("\n\033[1;36mWaiting For Connection ...\n")
-        os.system("nc -l %s" % port)
+        os.system("nc -l -p %s" % port)
         print("\033[1;36m")
 
     if (options == '4'):
